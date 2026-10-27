@@ -1,4 +1,5 @@
-# APD Laborator 3
-
-Proiect pentru laboratorul de Achizitia si prelucrarea datelor.
-Citeste valoarea de pe pinul A0 si o afiseaza pe portul serial.
+markdown
+## Senzori utilizați
+| Senzor | Interfață | Domeniu |
+|---|---|---|
+| TMP36 | Analogic (A0) | -40°C .. +125°C |
